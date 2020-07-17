@@ -1,0 +1,163 @@
+  
+ 
+VISVESVARAYA TECHNOLOGICAL UNIVERSITY, BELAGAVI.
+ 
+
+DBMS Mini Project Report on
+OLA CAB DATABASE MANAGEMENT SYSTEM
+
+Submitted by
+SHIVAM ARORA, BASANGOUDA K
+ USN: 2KL17CS081, 2KL17CS018
+
+
+ 
+
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+KLE Dr M S SHESHGIRI COLLEGE OF ENGINEERING & TECHNOLOGY
+BELAGAVI – 590 008, KARNATAKA, INDIA
+Academic Year 2019-20
+
+
+KLE DR M S SHESHGIRI COLLEGE OF ENGINEERING & TECHNOLOGY, BELAGAVI-08 
+Department Of Computer Science & Engineering
+
+ 
+Certificate 
+	This is to certify that Mr. Shivam Arora, Basangouda K bearing USN No. 2KL17CS081, 2KL17CS018 has satisfactorily completed the DBMS Mini Project titled User data information for partial fulfilment of DBMS Mini Project of V Semester Bachelor of Engineering in Computer Science and Engineering of the Visvesvaraya Technological University, Belagavi for the year 2019-2020.
+   
+
+Guide				        Project Coordinator			        HOD			
+	
+Examiner 1							Examiner 2	
+Name:								 Name:
+Signature: 							 Signature:
+Date:								 Date:
+ 
+
+TABLE OF CONTENTS
+
+Chapter 1:	Introduction……………..……..……….………….……..……..…..……..2
+		Problem Statement………………………………………………………...3
+Problem Discussion………………………………………………………..3
+Chapter 2:	System Requirements….…..….…...….…...….…...….….…..…...….…….4
+Chapter 3:	Proposed System design…………………………………………………...5
+Chapter 4:	Implementation and Screenshots….…..….…..…..….….…..….…..….…...7
+Chapter 5:	Conclusion.…….…….….…….…….…….…….….…….…….…….……13
+References
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 1:
+1.	INTRODUCTION
+Background:	
+The importance of the DBMS is it manages data efficiently and allows users to perform multiple task with ease. A database software application. Without DBMS management system stores, organizes and manages a large amount of information within a single we might have to do it manually and would have taken more time.
+The importance of SQL is it helps to find the needed information or data easily. It quickly stores and gets data from the database quickly. SQL is used for the query insert, collect and manages data from database.
+The importance of stored procedure is it provide a powerful way to code application logic that can be stored on the server MySQL use stored procedures and functions.
+The importance of Triggers is a SQL trigger is a set of SQL statements stored in the database catalog. A SQL trigger is executed or fired whenever an event associated with table occurs for example: insert, update, delete. The trigger is used to update and retrieve from database.
+
+
+
+
+
+
+
+
+
+
+Problem Statement:
+A database project for OLA CAB Database Management and faculty. This Program will help people to travel from one place to another place with just a click.
+This project also helps to travel for future on the fixed date & time.
+
+
+Problem Discussion:
+Existing system is very inefficient. Searching a cab now a days is also not an easy task. There is a lot of manual work involved in current system. No proper collection of  information about the city you are travelling.
+
+
+Disadvantages of existing system:
+Current system is manual so all the records are maintained manually. So the seating arrangement of students cannot be determined if updating is not done.
+•	Time Consuming.
+•	 More manual Work Required.
+•	Late for important work.
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 2:
+2. SYSTEM REQUIREMENTS
+
+Hardware Requirements:
+Processor:  intel  core i3 or above
+RAM: 4GB or more
+
+Web Technologies:
+•	HTML
+•	CSS
+•	Java Script
+•	P.H.P.
+MySQL Database Software
+Local Server Software: XAMPP/WAMP Server
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 5:
+CONCLUSION
+The project entitled “OLA CAB Database Management” has been proposed to be implementing to replace the manual system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+[1]  Fundementals of Database systems Ramez Elmasri and Shamkant B. Navathe
+         7th Edition,2017,Pearson.
+[2]  w3schools website  https://www.w3schools.com
